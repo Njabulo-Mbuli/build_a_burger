@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can find the project at the following address: burger.njabulombuli.co.za
+You can find the project at the following address: http://burger.njabulombuli.co.za
 
 ## Available Scripts
 
